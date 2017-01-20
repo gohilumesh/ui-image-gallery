@@ -49,6 +49,14 @@
   border: 1px solid #999;
 }
 
+.tabbed-container li.tab  a {
+  background-color: #fff;
+}
+
+.tabbed-container li.tab.active  a {
+  background-color: #ccc;
+}
+
 .image-content {
   clear: both;
   padding: 20px;
