@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
-import WidgetContainer from './container/widget-container'
+import WidgetContainer from './widget-container'
 
 const App = () => (
   <div className="App">
